@@ -1,0 +1,12 @@
+.restaurant-menu {
+  width: 50%;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.meals-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
